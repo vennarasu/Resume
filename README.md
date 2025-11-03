@@ -66,11 +66,4 @@ My goal is to protect and strengthen digital infrastructures through continuous 
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](#) *(Add your LinkedIn link here)*  
-- 🐙 [GitHub](#) *(Add your GitHub profile link here)*  
-
----
-
 > “Security is not a product, but a process.” – Bruce Schneier
